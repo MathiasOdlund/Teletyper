@@ -1,0 +1,18 @@
+./roku/node_modules
+./roku/.output
+./roku/.data
+./roku/.nuxt
+./roku/.nitro
+./roku/.cache
+./roku/dist
+
+
+# Logs
+./roku/logs
+./roku/*.log
+
+
+# Local env files
+./roku/.env
+./roku/.env.*
+./roku/!.env.example
